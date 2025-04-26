@@ -36,9 +36,9 @@ It provides a simple graphical user interface (GUI) to help students log in, add
 2. Enter your **SQU username** and **password**.
 3. Enter your desired courses in the following format (one per line):
    ```
-   MATH2101 1
-   COMP3401 2
-   CHEM1000 3
+   MATH2101 10
+   COMP3401 20
+   CHEM2101 30
    ```
    (Course Code followed by Section Number.)
 
