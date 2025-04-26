@@ -44,3 +44,16 @@ It provides a simple graphical user interface (GUI) to help students log in, add
 
 4. Click **Register** to start the registration process.  
    A pop-up will display the result for each course: whether it was successfully added or not.
+## Screenshots
+![image](https://github.com/user-attachments/assets/14e4160a-8a5d-4067-89aa-afcc510eaec3)
+
+## Code Structure
+
+- **`main.py`**  
+  Handles the GUI creation, user interactions, and threading to keep the UI responsive.
+
+- **`functions.py`**  
+  Contains backend helper functions:
+  - `login(user_pass, session)`: Logs into the SQU SIS portal.
+  - `status(session)`: Checks if course registration is open.
+  - `add_course(course, session)`: Adds a course to your registration list.
