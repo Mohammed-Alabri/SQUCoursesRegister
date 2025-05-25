@@ -4,6 +4,7 @@
 It provides a simple graphical user interface (GUI) to help students log in, add courses, and check the registration status, saving time and reducing manual errors.
 
 > **Important Note**: Since the university website has been changed and updated, this tool **no longer works**.
+> for educational purposes only 
 
 ## Features
 
